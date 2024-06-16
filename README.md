@@ -9,7 +9,7 @@ What is the most profitable stock for 1 year?
 What is the most profitable and safest stock for 5 year?
 
 
-This project aimed to answer these questions by performing forecasting modeling on available stock price data using Prophet function.
+This project aimed to answer these questions by performing forecasting modeling on available stock price data using Prophet model.
 
 ## Findings
 
